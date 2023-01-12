@@ -3,7 +3,7 @@
   font-family: "Open Sans", sans-serif;
 }
 .header {
-  background-image: url("../images/banner/banner1.png");
+  background-image: url('../images/banner/banner1.png');
   height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
@@ -112,7 +112,7 @@ main {
   margin-right: auto;
 }
 .bts-back {
-  background-image: url("../images/watch.png"),
+  background-image: url('../images/watch.png'),
     linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
   background-repeat: no-repeat;
   margin: 230px;
